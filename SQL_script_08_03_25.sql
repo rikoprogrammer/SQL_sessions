@@ -1,5 +1,12 @@
 
--- SQL LEARNING SESSIONS
+-- SQL LEARNING SESSIONS - 08th March 2025.
+
+-- process flow and tools that i used
+   -- https://aiven.io/  -- the platform that manages databases in the cloud -- i used postgreSql for my case but 
+                         -- you can choose from a wide range of databases like MYSQL, oracle sybase etc
+
+   -- for managing the database i used a database management tool called dBeaver community edition (https://dbeaver.io/download/)
+
 
 
 -- Creating schemas
