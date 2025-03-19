@@ -7,8 +7,9 @@ SQL is the lingua franca for databases. This repository contains my SQL learning
 **Question 1**
 
 ``` sql
-select count(*)
 
-from web_events;
+SELECT COUNT(*)
+
+FROM web_events;
 
 ```
